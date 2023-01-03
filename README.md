@@ -1,2 +1,3 @@
-# picgo-plugin-superbed-uploader
-superbed &amp; picgo &amp; unlimited
+## picgo-plugin-superbed-uploader
+
+superbed & picgo & unlimited
