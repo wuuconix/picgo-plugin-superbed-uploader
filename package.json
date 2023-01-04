@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p .",
     "dev": "tsc -w -p .",
-    "publish": "npm publish --registry https://registry.npmjs.org && git push"
+    "publish": "npm login --registry https://registry.npmjs.org && npm publish --registry https://registry.npmjs.org && git push"
   },
   "keywords": [
     "picgo",
