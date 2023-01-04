@@ -1,7 +1,7 @@
 {
   "name": "picgo-plugin-superbed-uploader",
-  "version": "1.0.0",
-  "description": "superbed & picgo & unlimited",
+  "version": "1.0.1",
+  "description": "A PicGo plugin for free plan user of superbed",
   "main": "dist/index.js",
   "publishConfig": {
     "access": "public"
@@ -11,9 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p .",
     "dev": "tsc -w -p .",
-    "patch": "npm version patch && git push origin master && git push origin --tags",
-    "minor": "npm version minor && git push origin master && git push origin --tags",
-    "major": "npm version major && git push origin master && git push origin --tags"
+    "publish": "npm publish --registry https://registry.npmjs.org && git push"
   },
   "keywords": [
     "picgo",
