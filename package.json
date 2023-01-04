@@ -1,12 +1,12 @@
 {
   "name": "picgo-plugin-superbed-uploader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A PicGo plugin for free plan user of superbed",
   "main": "dist/index.js",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "",
+  "homepage": "https://github.com/wuuconix/picgo-plugin-superbed-uploader",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p .",
