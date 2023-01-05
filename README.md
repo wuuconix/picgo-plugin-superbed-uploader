@@ -6,6 +6,8 @@ A PicGo plugin for free plan user of [superbed](https://www.superbed.cn/)
 
 search "superbed-uploader" in PicGo plugin market.
 
+![plugin market](https://pic.imgdb.cn/item/63b6619dbe43e0d30e9165e8.jpg)
+
 ## Config
 
 + **token**: your superbed token which store in cookie.
@@ -20,7 +22,7 @@ search "superbed-uploader" in PicGo plugin market.
 
 + example config
 
-    ![](https://pic.imgdb.cn/item/63b50065be43e0d30e9447e8)
+  ![examle config](https://pic.imgdb.cn/item/63b662ddbe43e0d30e936e67.jpg)
 
 ## Notice
 

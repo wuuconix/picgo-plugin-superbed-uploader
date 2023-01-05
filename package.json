@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-superbed-uploader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A PicGo plugin for free plan user of superbed",
   "main": "dist/index.js",
   "publishConfig": {
@@ -10,9 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p .",
-    "dev": "tsc -w -p .",
-    "login": "npm login --registry https://registry.npmjs.org",
-    "publish": "npm publish --registry https://registry.npmjs.org && git push"
+    "dev": "tsc -w -p ."
   },
   "keywords": [
     "picgo",
