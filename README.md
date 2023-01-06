@@ -6,7 +6,7 @@ A PicGo plugin for free plan user of [superbed](https://www.superbed.cn/)
 
 search "superbed-uploader" in PicGo plugin market.
 
-![plugin market](https://pic.imgdb.cn/item/63b6619dbe43e0d30e9165e8.jpg)
+![plugin market](http://qiniu.wuuconix.link/image-202301061538949.png)
 
 ## Config
 
@@ -14,15 +14,15 @@ search "superbed-uploader" in PicGo plugin market.
   `document.cookie.match(/token=(\w{32})/)[1]`
   you can run this command in console to get the token.
   
-  ![token](https://pic.imgdb.cn/item/63b4fecbbe43e0d30e91a7f8)
+  ![token](http://qiniu.wuuconix.link/image-202301061539252.png)
 
 + **categories**: the album name, default for "PicGo"
   
-  ![categories](https://pic.imgdb.cn/item/63b5000cbe43e0d30e93c623)
+  ![categories](http://qiniu.wuuconix.link/image-202301061539699.png)
 
 + example config
 
-  ![examle config](https://pic.imgdb.cn/item/63b662ddbe43e0d30e936e67.jpg)
+  ![examle config](http://qiniu.wuuconix.link/image-202301061540120.png)
 
 ## Notice
 

@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-superbed-uploader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A PicGo plugin for free plan user of superbed",
   "main": "dist/index.js",
   "publishConfig": {
